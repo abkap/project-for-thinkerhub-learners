@@ -1,4 +1,4 @@
-#python program for trch learners and mentors
+#python program for tech learners and mentors
 class Tech_learners_and_mentors :
     def __init__(self,n,lm,t,i):
         self.name = n
